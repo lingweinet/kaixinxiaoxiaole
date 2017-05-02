@@ -5,5 +5,3 @@
 [试玩地址](http://oenusfky1.bkt.clouddn.com/index.html)
 # 草图
 ![umlclass](https://github.com/isghost/kaixinxiaoxiaole/raw/master/readmeres/umlclass.png)
-# 联系方式
-810278677@qq.com
